@@ -17,7 +17,7 @@ It takes a target domain as an input and performs reconnaissance on it and gives
 
 # Usage - 
 
-./deksterecon.sh target.com
+./dekster.sh target.com
 
 # Result
 
